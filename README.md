@@ -1,7 +1,6 @@
 ## Introduction
 
-This the solution to assignment 1 in the "Exploratory Analysis" part of the Datascience course
-Content of directory is as follows:
+This is the solution to assignment 1 in the "Exploratory Analysis" part of the Datascience course
 
 Please NOTE that language settings make thu, fre, sat come out as the Danish equivalents to, fr, lø.
 It is likely possible to modify the point descriptions, but as this is an exploratory analysis
